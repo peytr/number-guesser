@@ -3,11 +3,14 @@
 [To be uploaded](#)
 
 A number guessing game created as part of the "Modern JavaScript from the Begining" Udemy course by the amazing Brad Traversy.\
+
 [https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/overview](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4/overview)
 
 The Number Guessing Game project uses the Skeleton css library.
 
-The orginal version as coded in the tutorial can be played [here.](#)
+This repository is for the orginal version as coded in the tutorial and can be played [here.](#)
+
+![](img/number-guesser.png)
 
 I have made a couple of changes and have added the following:
 
