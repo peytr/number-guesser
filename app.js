@@ -9,6 +9,7 @@
 // Game Play
 // - Add log of guesses so player can see what they have guessed
 // - Add player choice of min and max number range
+// - Add focus back to the number input after guess
 // Styling
 // - Add card style dark background
 
@@ -78,6 +79,8 @@ function gameOver(won, msg){
     guessInput.style.borderColor = color
     // Set text color
     guessInput.style.color = color
+    // Set message color
+    message.style.color = color
     // Set message
     setMessage(msg)
 
